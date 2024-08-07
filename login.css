@@ -1,0 +1,24 @@
+body {
+  background-color: burlywood;
+}
+.heading {
+  text-align: center;
+  background-color: rgb(33, 31, 29);
+  color: white;
+}
+.start {
+  font-weight: bolder;
+  text-align: center;
+  font-size: 60px;
+}
+.login {
+  text-align: center;
+  font-weight: bold;
+  background-color: burlywood;
+  color: black;
+}
+.login-img {
+  padding: 50px;
+  width: 500px;
+  margin-left: 30%;
+}
